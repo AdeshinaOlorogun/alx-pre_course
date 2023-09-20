@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+# Exclude Emacs backup files
 *~
+
+=======
+*~
+>>>>>>> 8d57702b1f32d824ddeb9fa8e9f988352bff4231
